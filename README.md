@@ -1,1 +1,1 @@
-# 11_Polar_Fintech
+AI Enhaced personal financing assistant X Expense tracker
